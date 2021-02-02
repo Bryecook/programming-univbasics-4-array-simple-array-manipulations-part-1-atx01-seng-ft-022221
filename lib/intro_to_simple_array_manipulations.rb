@@ -21,3 +21,8 @@ def using_shift(array)
   element
 end
 
+def shift_with_args(array)
+  elemenets=array.shift(2)
+  elements
+end
+  
