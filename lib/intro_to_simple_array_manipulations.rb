@@ -22,7 +22,7 @@ def using_shift(array)
 end
 
 def shift_with_args(array)
-  elemenets=array.shift(2)
+  elements=array.shift(2)
   elements
 end
   
