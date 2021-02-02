@@ -10,3 +10,8 @@ def using_pop(array)
   element=array.pop
   element
 end
+
+def pop_with_args(array)
+  elements=array.pop(2)
+  elements
+end
